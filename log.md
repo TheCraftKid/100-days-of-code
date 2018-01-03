@@ -15,3 +15,16 @@ projects.
 **Link(s) to work**
 1. [TheCraftKid Project Showcase](https://github.com/TheCraftKid/thecraftkid.github.io)
 2. [Countdowns](https://github.com/TheCraftKid/countdowns-android)
+
+### Day 2: Tuesday, January 2
+
+**Today's Progress**: Due to my recent interest in LastPass's great password
+management service, I've built an Android app that creates hashes of inputted
+strings. Sure, definitely not for generating passwords, but I wanted to bulid
+something in an hour.
+
+**Thoughts**: I need to work on building up a larger attention span. It
+appears for all its strengths, the internet is a very distracting place.
+
+**Links to work***
+1. [Hash Cake](https://github.com/TheCraftKid/hash-cake)
