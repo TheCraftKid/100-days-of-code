@@ -26,5 +26,5 @@ something in an hour.
 **Thoughts**: I need to work on building up a larger attention span. It
 appears for all its strengths, the internet is a very distracting place.
 
-**Links to work***
+**Links to work**
 1. [Hash Cake](https://github.com/TheCraftKid/hash-cake)
