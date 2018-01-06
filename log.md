@@ -28,3 +28,13 @@ appears for all its strengths, the internet is a very distracting place.
 
 **Links to work**
 1. [Hash Cake](https://github.com/TheCraftKid/hash-cake)
+
+### Day 5: Friday, January 5
+
+**Today's Progress**: I've been messing around with Scikit-learn in Google's
+online Collab program for Jupyter notebooks. I tried to use sklearn to find
+patterns in lottery numbers and prove or disprove that there's a predictable
+pattern within them.
+
+**Links to work**
+1. [Can one game the lottery?](https://colab.research.google.com/notebook#fileId=1Ego3Wtz_h2C7YDIf-SzWPs0naOOHY8Mx)
