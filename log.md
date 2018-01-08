@@ -38,3 +38,11 @@ pattern within them.
 
 **Links to work**
 1. [Can one game the lottery?](https://colab.research.google.com/notebook#fileId=1Ego3Wtz_h2C7YDIf-SzWPs0naOOHY8Mx)
+
+### Day 7: Sunday, January 7
+
+**Today's Progress**: I read about CSS Grid and attempted to modify Page Willie
+to have a more responsive layout.
+
+**Links to work**
+1. [Page Willie](https://github.com/TheCraftKid/page-willie)
