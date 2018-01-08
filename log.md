@@ -39,6 +39,15 @@ pattern within them.
 **Links to work**
 1. [Can one game the lottery?](https://colab.research.google.com/notebook#fileId=1Ego3Wtz_h2C7YDIf-SzWPs0naOOHY8Mx)
 
+### Day 6: Saturday, January 6
+
+**Today's Progress**: I resumed work on Page Willie after weeks of hiatus. I
+commited some code that fixes some quality issues and modified the layout to
+one better suited for the service.
+
+**Thoughts**: This project should have been finished weeks ago. At least I'm
+getting reacquainted with web development with Polymer.
+
 ### Day 7: Sunday, January 7
 
 **Today's Progress**: I read about CSS Grid and attempted to modify Page Willie
